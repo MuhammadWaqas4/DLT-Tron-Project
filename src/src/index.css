@@ -1,0 +1,16 @@
+.logo {
+  height: 100px;
+  width: 100px;
+  transition: width 500ms, height 500ms;
+}
+
+.logo-enter-active {
+  height: 50px;
+  width: 50px;
+  transition: width 500ms, height 500ms;
+}
+
+.logo-enter-done {
+  height: 50px;
+  width: 50px;
+}

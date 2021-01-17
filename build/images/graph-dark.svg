@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 572" width="1600" height="572">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L1600 0L1600 572L0 572L0 0Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="1615" y1="69" x2="1615" y2="587">
+			<stop offset="0" stop-color="#1c232f"  />
+			<stop offset="1" stop-color="#333a4a" stop-opacity="0" />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M125.5 267C84.3 267 15.67 317.67 -11.5 342L-11.5 587L1615 587L1615 154C1612 135.33 1596.7 98 1559.5 98C1513 98 1479 172 1436 172C1393 172 1361.5 69 1318 69C1274.5 69 1237.5 219 1200 219C1162.5 219 1119.5 129.5 1077 129.5C1034.5 129.5 1014.5 258 965 258C915.5 258 884 181.5 835 181.5C786 181.5 769 258 719.5 258C670 258 641.5 156 599 156C556.5 156 516 304.5 479 304.5C442 304.5 405.5 215 361 215C316.5 215 287 344.5 243 344.5C199 344.5 177 267 125.5 267Z" />
+			<g id="Layer">
+			</g>
+		</g>
+	</g>
+</svg>
